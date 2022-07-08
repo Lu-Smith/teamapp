@@ -22,8 +22,9 @@
   }
 
   li {
-    padding-left: 10px;
-    line-height: 25px;
+    line-height: 30px;
+    list-style: none;
+    font-size: 1.25rem;
     
   }
   
