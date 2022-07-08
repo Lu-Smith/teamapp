@@ -2,7 +2,7 @@
     padding: 4rem;
     width: 40rem;
     margin: 0 auto;
-    margin-top: 150px;
+    margin-top: 100px;
     background: #d1cebd; 
   }
   
@@ -79,6 +79,6 @@
     background: #f6eedf; 
   }
   
-  .error-msg {
+  .error-message {
     color: red;
   }
