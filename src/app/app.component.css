@@ -4,12 +4,16 @@
     margin: 0 auto;
     margin-top: 100px;
     background: #d1cebd; 
+    
   }
   
   h1 {
     font-size: 3rem;
     color: #f57b51; 
     text-align: center;
+    font-family: 'Poiret One', cursive;
+    font-size: 40px;
+    text-shadow: 3px 3px 3px #fff;
   }
   
 
@@ -54,6 +58,7 @@
     width: 200px;
     text-align: center;
     box-shadow: 3px 3px 3px rgba(128, 128, 128, 0.418);
+    
   }
 
 
@@ -104,5 +109,20 @@
   margin-top: 40px;
   text-align: right;
   color: #fff;
-  font-size: 18px;
+  font-size: 16px;
+  font-family: 'Satisfy', cursive;
+ }
+
+ footer {
+  margin-top: 40px;
+  font-family: 'Satisfy', cursive;
+  font-size: 20px;
+ }
+
+ footer a {
+  color: #fff;
+ }
+
+ footer a:hover {
+  color: #f57b51; 
  }
