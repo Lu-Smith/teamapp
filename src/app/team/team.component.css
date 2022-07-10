@@ -1,0 +1,23 @@
+.team-container {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+
+  .team-container h3 {
+    background-color: #f57b51; 
+    color: #fff;
+    padding: 5px;
+    margin-bottom: 0;
+    
+  }
+
+  .team-container ul {
+    border: 0.1rem solid #f57b51; 
+    margin: 0;
+    padding: 20px;
+    background-color: #fff; 
+   }
+
+   .team-container li {
+    list-style: none;
+   }
