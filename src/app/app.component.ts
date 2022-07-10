@@ -11,6 +11,7 @@ export class AppComponent {
   errorMessage = ``;
   numberOfTeams: number | ""= "";
   teams: string[][] = [];
+  currentDate = new Date()
 
   onInput(member: string) {
     this.newMemberName = member;
