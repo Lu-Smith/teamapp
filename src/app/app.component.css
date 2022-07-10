@@ -53,6 +53,12 @@
     border-radius: 5px;
     width: 200px;
     text-align: center;
+    box-shadow: 3px 3px 3px rgba(128, 128, 128, 0.418);
+  }
+
+
+  .add-members-container button:hover {
+    opacity: 80%;
   }
   
   .input-container {
@@ -66,6 +72,11 @@
     background-color: #d63447;
     border: none;
     color: white;
+    box-shadow: 3px 3px 3px rgba(128, 128, 128, 0.418);
+  }
+
+  .input-container button:hover {
+    opacity: 80%;
   }
   
   .input-container input {
